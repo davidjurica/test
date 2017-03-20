@@ -11,7 +11,11 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "Hello WORLD!";
+        echo "Nazdáááárek";
+        echo "Jak se máte?";
+        
+        
+        
         ?>
     </body>
 </html>
