@@ -11,9 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "Nazdáááárek";
-        echo "Jak se máte?";
-        
+      echo "<h1>Začátky</h1>";
+      
         
         
         ?>
