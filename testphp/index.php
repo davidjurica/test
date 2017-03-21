@@ -16,8 +16,10 @@ and open the template in the editor.
       $pozdrav = "Ahoj";
       $věk = 20;
       $adresa = ksokolovně;
-      echo($pozdrav).PHP_EOL;
-      echo($věk).PHP_EOL;
+      echo($pozdrav);
+      echo('<br />');
+      echo($věk);
+      echo('<br />');
       echo($adresa);
       
 
