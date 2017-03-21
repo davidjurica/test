@@ -21,7 +21,6 @@ and open the template in the editor.
       echo($věk);
       echo('<br />');
       echo($adresa);
-      echo('<br />');
       
 
 
