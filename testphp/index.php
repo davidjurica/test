@@ -13,8 +13,11 @@ and open the template in the editor.
         <?php
       echo "<h1>Začátky</h1>".PHP_EOL;
       echo "<h2>Úvod do společnosti</h2>";
-      //zkouška komentáře
-      include 'testphp';
+      $pozdrav = "Ahoj";
+      $věk = 20;
+      $adresa = ksokolovně;
+      
+
       
       
       
