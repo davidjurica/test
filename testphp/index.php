@@ -17,9 +17,7 @@ and open the template in the editor.
       $věk = 20;
       $adresa = ksokolovně;
       echo($pozdrav);
-      echo('<br />');
       echo($věk);
-      echo('<br />');
       echo($adresa);
       
 
